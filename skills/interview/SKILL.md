@@ -1,4 +1,5 @@
 ---
+name: interview
 description: Interview me about the plan
 argument-hint: [file or text]
 model: opus
