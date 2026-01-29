@@ -12,6 +12,10 @@ Resets the working directory after completing a task. Ensures no uncommitted cha
 
 Catch up on codebase changes by reviewing the diff from master and reading any relevant spec files that were modified.
 
+### `/discovery`
+
+Quick user-centric interview for time-poor stakeholders. Asks 5-10 focused questions about the problem, current workflow, pain points, and desired outcome. Writes a scannable discovery doc that can feed into `/interview` for technical deep-dive.
+
 ### `/interview`
 
 Interactive planning tool that interviews you in depth about a plan or idea. Takes a file path or raw text, asks detailed questions about technical implementation, UI/UX, concerns, and tradeoffs, then writes the final spec to a file.
