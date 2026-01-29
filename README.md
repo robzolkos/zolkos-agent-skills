@@ -16,6 +16,10 @@ Catch up on codebase changes by reviewing the diff from master and reading any r
 
 Interactive planning tool that interviews you in depth about a plan or idea. Takes a file path or raw text, asks detailed questions about technical implementation, UI/UX, concerns, and tradeoffs, then writes the final spec to a file.
 
+### `/plan2json`
+
+Convert feature requirements into structured PRD items as JSON. Each item includes category, description, steps to verify, and a passes flag for tracking verification status.
+
 ### `/prime`
 
 Prime yourself on a new codebase by listing all files and reading the README.
