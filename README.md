@@ -2,6 +2,14 @@
 
 Custom skills used by Rob Zolkos in his day-to-day development workflow.
 
+## Installation
+
+The simplest way to install these skills to any of your agents is via [skills.sh](https://skills.sh):
+
+```bash
+npx skills add robzolkos/agent-skills
+```
+
 ## Skills
 
 ### `/done`
