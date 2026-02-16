@@ -35,3 +35,7 @@ Convert feature requirements into structured PRD items as JSON. Each item includ
 ### `/prime`
 
 Prime yourself on a new codebase by listing all files and reading the README.
+
+### `/ship`
+
+Commit, run `bin/ci`, and open a PR if CI passes. Creates a branch if on master, stages and commits changes, runs CI, and opens a pull request. Optionally accepts a commit message as an argument.
