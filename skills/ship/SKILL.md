@@ -1,4 +1,5 @@
 ---
+name: ship
 description: Commit, run bin/ci, and open a PR if CI passes. Use when ready to ship changes.
 argument-hint: [optional commit message]
 disable-model-invocation: true
