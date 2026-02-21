@@ -30,4 +30,4 @@ Run `bin/ci` and wait for it to complete. This is mandatory — do not skip it.
 - If `bin/ci` **passes**: continue to step 4.
 
 ### 4. Open a PR
-`bin/ci` already pushed the branch to origin. Create a pull request using `gh pr create` and return the PR URL.
+`bin/ci` already pushed the branch to origin. Create a pull request using `gh pr create` and return the PR URL and a brief summary of files changed eg 2 Files Changed
